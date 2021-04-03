@@ -1,6 +1,6 @@
 ## Hi there, I'm Ivan 👋
-### Welcome to my GitHub profile ❤️
 
+### Welcome to my GitHub profile ❤️
 
 ### I'm a Lover, Programmer, Eternal Learner, Curious, Contributor!!
 
@@ -32,6 +32,15 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" />
+
+<br/>
+
+### Spoken Languages:
+
+Spanish <img align="rigth" alt="Spanish" width="26px" src="https://restcountries.eu/data/col.svg" /><br/>
+English <img align="rigth" alt="Spanish" width="26px" src="https://restcountries.eu/data/gbr.svg" /><br/>
+Portuguese <img align="rigth" alt="Spanish" width="26px" src="https://restcountries.eu/data/bra.svg" /><br/>
+
 <br />
 <br />
 
