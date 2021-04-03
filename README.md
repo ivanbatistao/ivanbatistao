@@ -38,7 +38,7 @@
 ### Spoken Languages:
 - 🇨🇴 Spanish (Native)
 - 🇬🇧 English (B2) 
-- 🇧🇷 Portuguese (Basic) 
+- 🇧🇷 Portuguese (B1) 
 
 <br />
 <br />
