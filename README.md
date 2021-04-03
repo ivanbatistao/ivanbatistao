@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile ❤️
 
-### I'm a Lover, Programmer, Eternal Learner, Curious, Contributor!!
+### I'm a Lover, Programmer, Lifelong Learner, Curious, Contributor!!
 
 - 🔭 I am currently working on a EverNote clone project and studying in a Full-Stack Software Development Program!
 - 🌱 I’m currently learning React Native & TypeScript
