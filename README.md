@@ -7,7 +7,7 @@
 - 🔭 I am currently working on a EverNote clone project and studying in a Full-Stack Software Development Program!
 - 🌱 I’m currently learning React Native & TypeScript
 - 👯 I’m looking to collaborate with other people in different software development projects
-- 🥅 2021 Goals: Find my first software development job, start my IT career and learn more...
+- 🥅 2021 Goals: Land my first software development job, start my IT career and learn more...
 - ⚡ Fun fact: I love classical and gospel music and I love challanges - I see programming as a way to challange myself
 
 ### Connect with me:
