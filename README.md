@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile ❤️
 
-### I'm a Lover, Programmer, Lifelong Learner, Curious, Contributor!!
+### I'm a Programmer, Lifelong Learner, Curious, Contributor!!
 
 - 🔭 I am currently working on a EverNote clone project and studying in a Full-Stack Software Development Program!
 - 🌱 I’m currently learning React Native & TypeScript
@@ -39,6 +39,14 @@
 - 🇨🇴 Spanish (Native)
 - 🇬🇧 English (B2) 
 - 🇧🇷 Portuguese (B1) 
+
+<br/>
+
+### Hobbies:
+- Reading - about SciFiction, Science, Business...
+- Programming and learning new things
+- Walking
+- Traveling
 
 <br />
 <br />
