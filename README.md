@@ -41,7 +41,7 @@
 - 🇧🇷 Portuguese (B1) 
 
 ### Hobbies:
-- Reading - about SciFiction, Science, Business...
+- Reading - about Science, Business, Science Fiction, Adventures,...
 - Programming and learning new things
 - Walking
 - Traveling
