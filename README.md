@@ -40,8 +40,6 @@
 - 🇬🇧 English (B2) 
 - 🇧🇷 Portuguese (B1) 
 
-<br />
-
 ### Hobbies:
 - Reading - about SciFiction, Science, Business...
 - Programming and learning new things
