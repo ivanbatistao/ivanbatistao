@@ -33,14 +33,14 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" />](#)
 
-<br/>
+<br />
 
 ### Spoken Languages:
 - 🇨🇴 Spanish (Native)
 - 🇬🇧 English (B2) 
 - 🇧🇷 Portuguese (B1) 
 
-<br/>
+<br />
 
 ### Hobbies:
 - Reading - about SciFiction, Science, Business...
