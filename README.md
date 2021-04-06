@@ -43,7 +43,9 @@
 
 ### Hobbies:
 - Reading - about Science, Business, Science Fiction, Adventures,...
+- Knowning people from different cultures
 - Programming and learning new things
+- Listening to music and learning to play the piano
 - Walking
 - Traveling
 
