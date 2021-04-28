@@ -13,9 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ivanbatistao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ivanbatistao/)
-[<img align="left" alt="ivanbatistao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ivanbatistao)
-[<img align="left" alt="ivanbatistao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:batistaochoaivan@gmail.com)
+[<img align="left" alt="ivanbatistao | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ivanbatistao/)
+[<img align="left" alt="ivanbatistao | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ivanbatistao)
+[<img align="left" alt="ivanbatistao | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:batistaochoaivan@gmail.com)
+[<img align="left" alt="ivanbatistao | WhatsApp" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](wa.link/9fuoou)
 
 <br />
 
