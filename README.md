@@ -37,8 +37,6 @@
     <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
 </p>
 
-### GitHub Stats:
-https://github-readme-stats.vercel.app/api?username=ivanbatistao&show_icons=true&theme=algolia&count_private=true
 
 ### Spoken Languages:
 - 🇨🇴 Spanish (Native)
@@ -52,6 +50,9 @@ https://github-readme-stats.vercel.app/api?username=ivanbatistao&show_icons=true
 - Listening to music and learning to play the piano
 - Walking
 - Traveling
+
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ivanbatistao&show_icons=true&theme=algolia&count_private=trueg)
 
 <br />
 <br />
