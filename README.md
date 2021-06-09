@@ -5,7 +5,7 @@
 ### I'm a Programmer, Lifelong Learner, Curious, Contributor!!
 
 - 🔭 I am currently working on an EverNote clone project, working on an E-Commerce project and studying in a Full-Stack Software Development Program!
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning Java
 - 💌 Wishlist: React Native, MongoDB, TypeScript
 - 👯 I’m looking to collaborate with other people in different software development projects
 - 🥅 2021 Goals: Land my first software development job, start my IT career and learn more...
