@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile ❤️
 
-### I'm a Software Developer, Lifelong Learner, Curious, Contributor!!
+### I'm a Software Engineer currently focused on Frontend Engineer, Lifelong Learner, Curious, Contributor!!
 
 - 🔭 I am currently working on an personal budget project in my free time and working as a Software Developer for an e-commerce in Latin America
 - 🌱 I’m currently learning TypeScript, Java and Software Engineering
