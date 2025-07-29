@@ -1,26 +1,27 @@
-## Hi there, I'm Ivan 👋
+# Hi there! <img src="https://raw.githubusercontent.com/martindavid/martindavid/master/assets/wave.gif" width="30px">
 
-### Welcome to my GitHub profile ❤️
+I'm Ivan — a Christian, a husband, and a passionate **Software Engineer,** specializing in **Frontend Engineering** while deepening my skills in **Backend** technologies. I'm always learning, building, and exploring new ideas in tech.
 
-### I'm a Software Engineer currently focused on Frontend Engineer, Lifelong Learner, Curious, Contributor!!
+## ⚡ **Fun Fact:**  
+I love **classical** and **gospel music** 🎶, and I thrive on **challenges** — I see sofware engineering as an exciting way to constantly challenge myself and grow.
 
-- 🔭 I am currently working on an personal budget project in my free time and working as a Software Developer for an e-commerce in Latin America
-- 🌱 I’m currently learning TypeScript, Java and Software Engineering
-- 💌 Wishlist: Python, React Native
-- 👯 I’m looking to collaborate with other people in different software development projects
-- 🥅 2023 Goals: Continue learning Software Engineering (following [teachyourselfcs](https://teachyourselfcs.com/)) and land a job in a startup
-- ⚡ Fun fact: I love classical and gospel music and I love challanges - I see programming as a way to challange myself
 
-### Connect with me:
+<!-- ## ✍️ Blog & Writing  
+Apart from coding, I also maintain a blog — you can find my articles on:  
+- 🌐 [ivanbatistao.com](https://ivanbatistao.com)  
+- 📬 [Substack](https://your-substack-link.com)  
+- 📝 [DEV.to](https://dev.to/yourusername) -->
+
+##  🔗 Connect with me:
 
 [<img align="left" alt="ivanbatistao | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ivanbatistao/)
-[<img align="left" alt="ivanbatistao | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ivanbatistao)
+<!-- [<img align="left" alt="ivanbatistao | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ivanbatistao) -->
 [<img align="left" alt="ivanbatistao | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:batistaochoaivan@gmail.com)
 <!-- [<img align="left" alt="ivanbatistao | WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send?phone=573012225765&text=Hi!%20I%27m%20%3Cyour%20name%3E%20%F0%9F%91%8B.%20I%27m%20writing%20to%20you%20because...) -->
 
 <br />
 
-### Languages and Tools:
+## 🛠️ Techmologies & Tools:
 <p align="left">
     <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
@@ -37,21 +38,16 @@
    <!-- <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a> -->
 </p>
 
+## 🌐 Languages I Speak  
+🇨🇴 Spanish (Native) • 🇬🇧 English (B2) • 🇧🇷 Portuguese (Basic)
 
-### Spoken Languages:
-- 🇨🇴 Spanish (Native)
-- 🇬🇧 English (B2) 
-- 🇧🇷 Portuguese (B1) 
+## 🎯 Outside of Work  
+- 🎶 Learning piano & listening to classical and gospel music  
+- 📚 Reading about science, business, and science fiction  
+- 🌎 Connecting with people from different cultures  
+- 💻 Exploring new tech and building side projects
 
-### Hobbies:
-- Reading - about Science, Business, Science Fiction, Adventures,...
-- Knowning people from different cultures
-- Programming and learning new things
-- Listening to music and learning to play the piano
-- Walking
-- Traveling
-
-### GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ivanbatistao&show_icons=true&theme=algolia&count_private=trueg)
 
 <br />
