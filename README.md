@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/martindavid/martindavid/master/assets/wave.gif" width="30px">
 
-I'm Ivan — a Christian, a husband, and a passionate **Software Engineer,** specializing in **Frontend Engineering** while deepening my skills in **Backend** technologies. I'm always learning, building, and exploring new ideas in tech.
+I'm Ivan — a passionate **Software Engineer,** specializing in **Frontend Engineering** while deepening my skills in **Backend** technologies. I'm always learning, building, and exploring new ideas in tech.
 
 ## ⚡ **Fun Fact:**  
 I love **classical** and **gospel music** 🎶, and I thrive on **challenges** — I see sofware engineering as an exciting way to constantly challenge myself and grow.
