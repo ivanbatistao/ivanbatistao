@@ -20,19 +20,9 @@ I've worked on products and systems at companies such as **Mercado Libre, Warner
 
 ## ✍️ Writing & Learning
 
-I write about software engineering, system design, backend development, frontend architecture, and lessons learned from building real-world systems.
+I write about Software Engineering, Distributed Systems, System Design, Go, Node.js & Backend Engineering, Cloud Architecture, Data Structures & Algorithms, Frontend Architecture & Performance, Clean Architecture & Design Patterns
 
 🌐 **Blog:** [ivanbatistao.com](https://ivanbatistao.com)
-
-I'm currently deepening my knowledge in:
-
-* Distributed Systems
-* System Design
-* Go & Backend Engineering
-* Cloud Architecture
-* Data Structures & Algorithms
-* Frontend Architecture & Performance
-* Clean Architecture & Design Patterns
 
 ## 🛠️ Core Technologies
 
