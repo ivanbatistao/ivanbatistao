@@ -1,54 +1,128 @@
 # Hi there! <img src="https://raw.githubusercontent.com/martindavid/martindavid/master/assets/wave.gif" width="30px">
 
-I'm Ivan — a passionate **Software Engineer,** specializing in **Frontend Engineering** while deepening my skills in **Backend** technologies. I'm always learning, building, and exploring new ideas in tech.
+I'm **Ivan E. Batista-Ochoa**, a **Senior Software Engineer** based in Colombia.
 
-## ⚡ **Fun Fact:**  
-I love **classical** and **gospel music** 🎶, and I thrive on **challenges** — I see software engineering as an exciting way to constantly challenge myself and grow.
+I specialize in **Product Engineering**, with a strong focus on **Backend, distributed systems, and cloud infrastructure** and strong hands-on experience in **Frontend Engineering**.
 
+I enjoy building software that is not only functional, but also **scalable, reliable, maintainable, and aligned with real business outcomes**.
 
-<!-- ## ✍️ Blog & Writing  
-Apart from coding, I also maintain a blog — you can find my articles on:  
-- 🌐 [ivanbatistao.com](https://ivanbatistao.com)  
-- 📬 [Substack](https://your-substack-link.com)  
-- 📝 [DEV.to](https://dev.to/yourusername) -->
+I've worked on products and systems at companies such as **Mercado Libre, Warner Bros. Discovery, and Ernst & Young**, including applications and critical user flows serving **100M+ users**.
 
-##  🔗 Connect with me:
+## 🚀 What I Work On
 
-[<img align="left" alt="ivanbatistao | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ivanbatistao/)
-<!-- [<img align="left" alt="ivanbatistao | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ivanbatistao) -->
-[<img align="left" alt="ivanbatistao | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:batistaochoaivan@gmail.com)
-<!-- [<img align="left" alt="ivanbatistao | WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send?phone=573012225765&text=Hi!%20I%27m%20%3Cyour%20name%3E%20%F0%9F%91%8B.%20I%27m%20writing%20to%20you%20because...) -->
+* **Backend Engineering:** Node.js, Express.js, Go, Gin, REST APIs and microservices
+* **Frontend Engineering:** React, TypeScript, JavaScript, modern web architecture and performance
+* **Cloud & Distributed Systems:** AWS Lambda, S3, DynamoDB, Kinesis, SQS, Docker
+* **Databases:** PostgreSQL, SQL, Prisma, SQLC
+* **Architecture:** Clean Architecture, modular systems, event-driven architectures and design patterns
+* **Testing & Quality:** Playwright, Jest, Cypress, Go testing, CI/CD
+* **Observability & Reliability:** Grafana, Datadog, New Relic, performance optimization and failure resilience
 
-<br />
+## 💡 Engineering Philosophy
 
-## 🛠️ Techmologies & Tools:
+I believe good software engineering is not just about choosing technologies.
+
+It's about understanding:
+
+* **What can fail?**
+* **Where are the bottlenecks?**
+* **What are the trade-offs?**
+* **How will the system behave at scale?**
+* **How does the technical solution affect the product and the business?**
+
+I'm particularly interested in **system design, distributed systems, backend engineering, frontend architecture, performance, and developer experience**.
+
+## 🏗️ Things I've Built
+
+### ⚡ Real-Time Recommendation Service
+
+A scalable event-driven recommendation service built with **Go and AWS**, processing behavioral events such as product views, searches, carts and purchases.
+
+**Stack:** Go · Gin · AWS Lambda · DynamoDB · Kinesis · Docker
+
+→ [View project](https://github.com/ivanbatistao/recommendations-service)
+
+### 🖼️ Image Processing Service
+
+A backend service for image uploads, metadata management and on-demand transformations such as resizing, cropping, rotation, compression and format conversion.
+
+**Stack:** Go · Gin · AWS S3 · AWS SQS · Docker
+
+→ [View project](https://github.com/ivanbatistao/image-processing-service)
+
+## 📈 Impact
+
+Selected engineering impact:
+
+* 🛡️ **Protected critical product flows used by 100M+ users** by introducing resilient frontend/backend fallbacks.
+* 📈 **Increased application conversion by 17 percentage points** through a fallback payment-method experience.
+* ⚡ **Reduced CI test execution time by up to 79%**, from ~28–38 minutes to ~7–8 minutes.
+* 🧪 Built a **Playwright + TypeScript automation framework adopted by 150+ engineers**, reducing manual QA effort by **800+ hours/month**.
+* 💰 Helped eliminate approximately **$116K/month in manual QA costs** through test automation.
+* 🛒 Contributed to critical **checkout and product experiences** across web and mobile.
+
+## ✍️ Writing & Learning
+
+I write about software engineering, system design, backend development, frontend architecture, and lessons learned from building real-world systems.
+
+🌐 **Blog:** [ivanbatistao.com](https://ivanbatistao.com)
+
+I'm currently deepening my knowledge in:
+
+* Distributed Systems
+* System Design
+* Go & Backend Engineering
+* Cloud Architecture
+* Data Structures & Algorithms
+* Frontend Architecture & Performance
+* Clean Architecture & Design Patterns
+
+## 🛠️ Core Technologies
+
 <p align="left">
-    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-    <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-   <!-- <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a> -->
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
-    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-   <!-- <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a> -->
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Gin" src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-## 🌐 Languages I Speak  
-🇨🇴 Spanish (Native) • 🇬🇧 English (B2) • 🇧🇷 Portuguese (Basic)
+## 🌎 Languages
 
-## 🎯 Outside of Work  
-- 🎶 Learning piano & listening to classical and gospel music  
-- 📚 Reading about science, business, and science fiction  
-- 🌎 Connecting with people from different cultures  
-- 💻 Exploring new tech and building side projects
+🇨🇴 **Spanish** — Native
+🇬🇧 **English** — Fluent
+🇧🇷 **Portuguese** — Basic
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ivanbatistao&show_icons=true&theme=algolia&count_private=trueg)
+## 🎹 Beyond Code
 
-<br />
-<br />
+Outside software engineering, I enjoy:
+
+* 🎹 Learning piano
+* 🎶 Classical and gospel music
+* 📚 Reading about science, business and science fiction
+* 🌎 Traveling and connecting with people from different cultures
+* 🍳 Cooking
+* 🚶 Walking and staying active
+
+## 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ivanbatistao/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:batistaochoaivan@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ivanbatistao.com">
+    <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> **Build software. Understand the system. Measure the impact. Keep learning.**
