@@ -18,20 +18,6 @@ I've worked on products and systems at companies such as **Mercado Libre, Warner
 * **Testing & Quality:** Playwright, Jest, Cypress, Go testing, CI/CD
 * **Observability & Reliability:** Grafana, Datadog, New Relic, performance optimization and failure resilience
 
-## 💡 Engineering Philosophy
-
-I believe good software engineering is not just about choosing technologies.
-
-It's about understanding:
-
-* **What can fail?**
-* **Where are the bottlenecks?**
-* **What are the trade-offs?**
-* **How will the system behave at scale?**
-* **How does the technical solution affect the product and the business?**
-
-I'm particularly interested in **system design, distributed systems, backend engineering, frontend architecture, performance, and developer experience**.
-
 ## 🏗️ Things I've Built
 
 ### ⚡ Real-Time Recommendation Service
