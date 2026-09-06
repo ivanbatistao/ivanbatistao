@@ -36,17 +36,6 @@ A backend service for image uploads, metadata management and on-demand transform
 
 → [View project](https://github.com/ivanbatistao/image-processing-service)
 
-## 📈 Impact
-
-Selected engineering impact:
-
-* 🛡️ **Protected critical product flows used by 100M+ users** by introducing resilient frontend/backend fallbacks.
-* 📈 **Increased application conversion by 17 percentage points** through a fallback payment-method experience.
-* ⚡ **Reduced CI test execution time by up to 79%**, from ~28–38 minutes to ~7–8 minutes.
-* 🧪 Built a **Playwright + TypeScript automation framework adopted by 150+ engineers**, reducing manual QA effort by **800+ hours/month**.
-* 💰 Helped eliminate approximately **$116K/month in manual QA costs** through test automation.
-* 🛒 Contributed to critical **checkout and product experiences** across web and mobile.
-
 ## ✍️ Writing & Learning
 
 I write about software engineering, system design, backend development, frontend architecture, and lessons learned from building real-world systems.
