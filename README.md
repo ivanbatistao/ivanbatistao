@@ -18,24 +18,6 @@ I've worked on products and systems at companies such as **Mercado Libre, Warner
 * **Testing & Quality:** Playwright, Jest, Cypress, Go testing, CI/CD
 * **Observability & Reliability:** Grafana, Datadog, New Relic, performance optimization and failure resilience
 
-## 🏗️ Things I've Built
-
-### ⚡ Real-Time Recommendation Service
-
-A scalable event-driven recommendation service built with **Go and AWS**, processing behavioral events such as product views, searches, carts and purchases.
-
-**Stack:** Go · Gin · AWS Lambda · DynamoDB · Kinesis · Docker
-
-→ [View project](https://github.com/ivanbatistao/recommendations-service)
-
-### 🖼️ Image Processing Service
-
-A backend service for image uploads, metadata management and on-demand transformations such as resizing, cropping, rotation, compression and format conversion.
-
-**Stack:** Go · Gin · AWS S3 · AWS SQS · Docker
-
-→ [View project](https://github.com/ivanbatistao/image-processing-service)
-
 ## ✍️ Writing & Learning
 
 I write about software engineering, system design, backend development, frontend architecture, and lessons learned from building real-world systems.
