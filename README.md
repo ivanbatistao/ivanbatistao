@@ -35,11 +35,11 @@ I write about **software engineering, system design, backend development, distri
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
-* **Backend:** Go · Gin · Node.js · Express.js · REST APIs · Microservices </br>
-* **Cloud:** AWS Lambda · S3 · DynamoDB · Kinesis · SQS · Docker </br>
-* **Architecture:** Distributed Systems · Event-Driven Architecture · Clean Architecture · Design Patterns </br>
-* **Data:** PostgreSQL · SQL · Prisma · SQLC </br>
-* **Quality:** Playwright · Jest · CI/CD · Observability · Performance </br>
+* **Backend:** Go · Gin · Node.js · Express.js · REST APIs · Microservices
+* **Cloud:** AWS Lambda · S3 · DynamoDB · Kinesis · SQS · Docker
+* **Architecture:** Distributed Systems · Event-Driven Architecture · Clean Architecture · Design Patterns
+* **Data:** PostgreSQL · SQL · Prisma · SQLC
+* **Quality:** Playwright · Jest · CI/CD · Observability · Performance
 
 ## 🌐 Languages
 
@@ -57,16 +57,13 @@ I write about **software engineering, system design, backend development, distri
 
 ## 🔗 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ivanbatistao/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:batistaochoaivan@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://ivanbatistao.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+[<img align="left" alt="ivanbatistao | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ivanbatistao/) 
+[<img align="left" alt="ivanbatistao | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:batistaochoaivan@gmail.com)
+[<img align="left" alt="ivanbatistao | Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://ivanbatistao.com)
+
+<br clear="all">
+<br>
+
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=ivanbatistao&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/ivanbatistao)
 
 > **Build software. Understand the system. Measure the impact. Keep learning.**
