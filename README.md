@@ -2,7 +2,7 @@
 
 I'm **Ivan E. Batista-Ochoa**, a **Senior Software Engineer** based in Colombia, focused on **Product Engineering**.
 
-My main focus is **Backend Engineering, distributed systems, and cloud infrastructure**, with strong hands-on experience in **Frontend Engineering**.
+I work primarily across **Backend Engineering, distributed systems, and cloud infrastructure**, with strong hands-on experience in **Frontend Engineering**.
 
 I enjoy building software that is **scalable, reliable, maintainable, and aligned with real business outcomes**.
 
