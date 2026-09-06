@@ -51,8 +51,8 @@ I'm currently deepening my knowledge in:
 
 ## 🌎 Languages
 
-🇨🇴 **Spanish** — Native
-🇬🇧 **English** — Fluent
+🇨🇴 **Spanish** — Native </br>
+🇬🇧 **English** — Fluent </br>
 🇧🇷 **Portuguese** — Basic
 
 ## 🎹 Beyond Code
