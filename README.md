@@ -8,16 +8,6 @@ I enjoy building software that is not only functional, but also **scalable, reli
 
 I've worked on products and systems at companies such as **Mercado Libre, Warner Bros. Discovery, and Ernst & Young**, including applications and critical user flows serving **100M+ users**.
 
-## 🚀 What I Work On
-
-* **Backend Engineering:** Node.js, Express.js, Go, Gin, REST APIs and microservices
-* **Frontend Engineering:** React, TypeScript, JavaScript, modern web architecture and performance
-* **Cloud & Distributed Systems:** AWS Lambda, S3, DynamoDB, Kinesis, SQS, Docker
-* **Databases:** PostgreSQL, SQL, Prisma, SQLC
-* **Architecture:** Clean Architecture, modular systems, event-driven architectures and design patterns
-* **Testing & Quality:** Playwright, Jest, Cypress, Go testing, CI/CD
-* **Observability & Reliability:** Grafana, Datadog, New Relic, performance optimization and failure resilience
-
 ## ✍️ Writing & Learning
 
 I write about Software Engineering, Distributed Systems, System Design, Go, Node.js & Backend Engineering, Cloud Architecture, Data Structures & Algorithms, Frontend Architecture & Performance, Clean Architecture & Design Patterns
@@ -25,6 +15,12 @@ I write about Software Engineering, Distributed Systems, System Design, Go, Node
 🌐 **Blog:** [ivanbatistao.com](https://ivanbatistao.com)
 
 ## 🛠️ Core Technologies
+* **Backend:** Go · Gin · Node.js · Express.js · REST APIs · Microservices </br>
+* **Frontend:** React · TypeScript · JavaScript · Web Architecture · Performance </br>
+* **Cloud & Distributed Systems:** AWS Lambda · S3 · DynamoDB · Kinesis · SQS · Docker </br>
+* **Data:** PostgreSQL · SQL · Prisma · SQLC </br>
+* **Architecture & Quality:** Clean Architecture · Event-Driven Systems · Design Patterns · Playwright · Jest · CI/CD </br>
+* **Observability:** Grafana · Datadog · New Relic
 
 <p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
