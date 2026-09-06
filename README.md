@@ -53,7 +53,7 @@ I write about **software engineering, system design, backend development, distri
 - 📚 Reading
 - 🌎 Traveling
 - 🍳 Cooking
-- 🚶 Walking, Going to the Gym & staying active
+- 🚶 Walking, going to the Gym & staying active
 
 ## 🔗 Connect with me
 
