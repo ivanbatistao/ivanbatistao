@@ -12,7 +12,7 @@ I've worked on products and critical user flows at **Mercado Libre, Warner Bros.
 
 I love **classical and gospel music** 🎶, learning piano, and taking on challenging problems. I see software engineering as a continuous opportunity to **learn, build, and improve**.
 
-## ✍️ Writing & Learning
+## ✍️ Writing
 
 I write about **software engineering, system design, backend development, distributed systems, and frontend architecture**.
 🌐 [ivanbatistao.com](https://ivanbatistao.com)
